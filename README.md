@@ -67,5 +67,3 @@ Here is an example of the application's interface after solving an 8x8 board:
 ![N-Queens Solver](./images/8x8_board.png)
 
 The above images shows both the GUI and the comparison between DFS and BFS solutions, with the number of solutions and time taken by each algorithm. The chessboard displays one of the possible solutions for the given board size.
-
-Feel free to reach out for any queries or suggestions.
